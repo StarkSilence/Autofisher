@@ -1,0 +1,15 @@
+﻿displayName=Autofisher
+author=StarkSilence
+version=1.0.0.0
+homepage=
+dllReferences=
+modReferences=
+weakReferences=
+buildIgnore=*.csproj, *.user, obj\*, bin\*, .vs\*
+languageVersion=4
+side=Both
+noCompile=false
+hideCode=false
+hideResources=false
+includeSource=false
+includePDB=false
